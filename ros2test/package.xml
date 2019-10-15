@@ -4,7 +4,7 @@
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
   <name>ros2test</name>
-  <version>0.2.0</version>
+  <version>0.1.1</version>
   <description>The test command for ROS 2 launch tests.</description>
   <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
   <license>Apache License 2.0</license>
@@ -14,8 +14,6 @@
   <depend>launch_testing</depend>
   <depend>launch_testing_ros</depend>
   <depend>ros2cli</depend>
-
-  <exec_depend>domain_coordinator</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
