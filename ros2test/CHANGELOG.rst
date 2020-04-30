@@ -2,11 +2,12 @@
 Changelog for package ros2test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.1 (2019-10-14)
+0.2.0 (2019-09-26)
 ------------------
-* Install resource marker file for package. (`#5 <https://github.com/ros2/ros_testing/issues/5>`_) (`#7 <https://github.com/ros2/ros_testing/issues/7>`_)
-* Install package manifest. (`#4 <https://github.com/ros2/ros_testing/issues/4>`_) (`#6 <https://github.com/ros2/ros_testing/issues/6>`_)
-* Contributors: Dirk Thomas
+* install resource marker file for package (`#5 <https://github.com/ros2/ros_testing/issues/5>`_)
+* install package manifest (`#4 <https://github.com/ros2/ros_testing/issues/4>`_)
+* Move --disable-isolation argument from launch_testing to ros2test (`#2 <https://github.com/ros2/ros_testing/issues/2>`_)
+* Contributors: Dirk Thomas, ivanpauno
 
 0.1.0 (2019-05-20)
 ------------------
