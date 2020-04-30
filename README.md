@@ -1,3 +1,28 @@
+## ros_testing (foxy) - 0.2.1-1
+
+The packages in the `ros_testing` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy ros_testing` on `Thu, 30 Apr 2020 07:47:54 -0000`
+
+These packages were released:
+- `ros2test`
+- `ros_testing`
+
+Version of package(s) in repository `ros_testing`:
+
+- upstream repository: https://github.com/ros2/ros_testing.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.0-1`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.17`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## ros_testing (foxy) - 0.2.0-1
 
 The packages in the `ros_testing` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy ros_testing` on `Thu, 30 Apr 2020 07:41:53 -0000`
