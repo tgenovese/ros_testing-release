@@ -1,1 +1,1 @@
-{"base": "cdd2834", "parent": "debian/rolling/ros2test", "previous": "47750d3", "trim": "", "trimbase": ""}
+{"base": "0cc6f89", "parent": "debian/galactic/ros2test", "previous": "5549bc5", "trim": "", "trimbase": ""}
