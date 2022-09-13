@@ -1,3 +1,28 @@
+## ros_testing (rolling) - 0.5.1-1
+
+The packages in the `ros_testing` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ros_testing` on `Tue, 13 Sep 2022 19:47:59 -0000`
+
+These packages were released:
+- `ros2test`
+- `ros_testing`
+
+Version of package(s) in repository `ros_testing`:
+
+- upstream repository: https://github.com/ros2/ros_testing.git
+- release repository: https://github.com/ros2-gbp/ros_testing-release.git
+- rosdistro version: `0.5.0-1`
+- old version: `0.5.0-1`
+- new version: `0.5.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_testing (rolling) - 0.5.0-1
 
 The packages in the `ros_testing` repository were released into the `rolling` distro by running `/home/parallels/.local/bin/bloom-release -r rolling ros_testing` on `Sat, 30 Apr 2022 01:03:12 -0000`
