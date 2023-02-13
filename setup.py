@@ -5,7 +5,7 @@ package_name = 'ros2test'
 
 setup(
     name=package_name,
-    version='0.5.1',
+    version='0.5.2',
     packages=find_packages(exclude=['test']),
     data_files=[
         ('share/' + package_name, ['package.xml']),
@@ -16,8 +16,8 @@ setup(
     zip_safe=True,
     author='Michel Hidalgo',
     author_email='michel@ekumenlabs.com',
-    maintainer='Michel Hidalgo',
-    maintainer_email='michel@ekumenlabs.com',
+    maintainer='Dharini Dutia',
+    maintainer_email='dharini@openrobotics.org',
     url='https://github.com/ros2/rostest/tree/master/ros2test',
     download_url='https://github.com/ros2/rostest/releases',
     keywords=[],
