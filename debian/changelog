@@ -1,0 +1,64 @@
+ros-rolling-ros2test (0.6.0-1jammy) jammy; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 27 Apr 2023 16:00:00 -0000
+
+ros-rolling-ros2test (0.5.2-1jammy) jammy; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#12 <https://github.com/ros2/ros_testing/issues/12>)
+  * Contributors: Audrow Nash
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Sun, 12 Feb 2023 16:00:00 -0000
+
+ros-rolling-ros2test (0.5.1-1jammy) jammy; urgency=high
+
+  * update maintainer
+  * Contributors: Dharini Dutia, quarkytale
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 12 Sep 2022 16:00:00 -0000
+
+ros-rolling-ros2test (0.5.0-1jammy) jammy; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 28 Apr 2022 16:00:00 -0000
+
+ros-rolling-ros2test (0.4.0-1jammy) jammy; urgency=high
+
+  * Use new domain_coordinator API (#10 <https://github.com/ros2/ros_testing/issues/10>)
+  * Contributors: Timo Röhling
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Wed, 12 Jan 2022 16:00:00 -0000
+
+ros-rolling-ros2test (0.3.0-1jammy) jammy; urgency=high
+
+  * Add pytest.ini so local tests don't display warning (#8 <https://github.com/ros2/ros_testing/issues/8>)
+  * Contributors: Chris Lalancette
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 18 Mar 2021 16:00:00 -0000
+
+ros-rolling-ros2test (0.2.1-1jammy) jammy; urgency=high
+
+  * More verbose test_flake8 error messages (same as ros2/launch_ros#135 <https://github.com/ros2/launch_ros/issues/135>)
+  * Contributors: Dirk Thomas
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Wed, 29 Apr 2020 16:00:00 -0000
+
+ros-rolling-ros2test (0.2.0-1jammy) jammy; urgency=high
+
+  * install resource marker file for package (#5 <https://github.com/ros2/ros_testing/issues/5>)
+  * install package manifest (#4 <https://github.com/ros2/ros_testing/issues/4>)
+  * Move --disable-isolation argument from launch_testing to ros2test (#2 <https://github.com/ros2/ros_testing/issues/2>)
+  * Contributors: Dirk Thomas, ivanpauno
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Wed, 25 Sep 2019 16:00:00 -0000
+
+ros-rolling-ros2test (0.1.0-1jammy) jammy; urgency=high
+
+  * Add ros_testing metapackage and ros2test CLI package (#1 <https://github.com/ros2/ros_testing/issues/1>)
+  * Contributors: Michel Hidalgo
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Sun, 19 May 2019 16:00:00 -0000
+
+
