@@ -1,0 +1,65 @@
+ros-rolling-ros-testing (0.7.0-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Fri, 26 Apr 2024 00:00:00 -0000
+
+ros-rolling-ros-testing (0.6.0-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Fri, 28 Apr 2023 00:00:00 -0000
+
+ros-rolling-ros-testing (0.5.2-1noble) noble; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#12 <https://github.com/ros2/ros_testing/issues/12>)
+  * Contributors: Audrow Nash
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 13 Feb 2023 00:00:00 -0000
+
+ros-rolling-ros-testing (0.5.1-1noble) noble; urgency=high
+
+  * update maintainer
+  * Contributors: Dharini Dutia, quarkytale
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Tue, 13 Sep 2022 00:00:00 -0000
+
+ros-rolling-ros-testing (0.5.0-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Fri, 29 Apr 2022 00:00:00 -0000
+
+ros-rolling-ros-testing (0.4.0-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 13 Jan 2022 00:00:00 -0000
+
+ros-rolling-ros-testing (0.3.0-1noble) noble; urgency=high
+
+  * Use rostest CMake target as output file basename. (#9 <https://github.com/ros2/ros_testing/issues/9>)
+  * Contributors: Michel Hidalgo
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Fri, 19 Mar 2021 00:00:00 -0000
+
+ros-rolling-ros-testing (0.2.1-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 30 Apr 2020 00:00:00 -0000
+
+ros-rolling-ros-testing (0.2.0-1noble) noble; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 26 Sep 2019 00:00:00 -0000
+
+ros-rolling-ros-testing (0.1.0-1noble) noble; urgency=high
+
+  * Add ros_testing metapackage and ros2test CLI package (#1 <https://github.com/ros2/ros_testing/issues/1>)
+  * Contributors: Michel Hidalgo
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 20 May 2019 00:00:00 -0000
+
+
