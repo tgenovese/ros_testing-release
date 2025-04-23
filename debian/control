@@ -1,0 +1,12 @@
+Source: ros-kilted-ros-testing
+Section: misc
+Priority: optional
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ament-cmake-core, ros-kilted-ament-cmake-export-dependencies, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-ros-testing
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-launch-testing, ros-kilted-launch-testing-ament-cmake, ros-kilted-launch-testing-ros, ros-kilted-ros2test, ros-kilted-ros-workspace
+Description: The entry point package to launch testing in ROS.
